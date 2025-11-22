@@ -1,6 +1,6 @@
-# Aprendizaje por Refuerzo en Tic-Tac-Toe (Juego del Gato)
+# Aprendizaje por Refuerzo en tres en raya (Juego del Gato)
 
-Este proyecto implementa un agente de **aprendizaje por refuerzo** que aprende a jugar *Tic-Tac-Toe* mediante **self-play**.  
+Este proyecto implementa un agente de **aprendizaje por refuerzo** que aprende a jugar tres en raya mediante **self-play**.  
 El modelo utiliza una tabla de valores (*value function*) donde asigna un valor a cada estado del tablero y se actualiza al finalizar cada partida.
 
 ---
